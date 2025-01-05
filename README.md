@@ -22,7 +22,6 @@ I’m a validator in the blockchain space, responsible for ensuring the integrit
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently exploring Blockchain Node Validation  
   
@@ -35,13 +34,6 @@ I’m a validator in the blockchain space, responsible for ensuring the integrit
 
 - ⚡ Fun fact: I enjoy learning new technologies and tackling challenging problems  
 
-
-</td><td valign="top" width="50%">
-
-![]()  
-
-
-</td></tr></table>  
 
 <br/>  
 
