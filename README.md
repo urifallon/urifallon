@@ -89,6 +89,3 @@ I’m a validator in the blockchain space, responsible for ensuring the integrit
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
