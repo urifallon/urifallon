@@ -57,7 +57,4 @@ I’m a validator in the blockchain space, responsible for ensuring the integrit
 ![Profile views counter](https://komarev.com/ghpvc/?username=urifallon&&style=flat-square)  
   
 
-<br/>  
 
-
-<br />
