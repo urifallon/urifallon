@@ -21,7 +21,7 @@ I’m a validator in the blockchain space, responsible for ensuring the integrit
 <br/>  
 
 
-## Rapidfire  
+## Hobbies  
 
 - 🔭 I’m currently exploring Blockchain Node Validation  
   
