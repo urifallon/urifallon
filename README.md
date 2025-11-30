@@ -1,85 +1,79 @@
-## Hey 👋, I'm Uri!  
+![banner](/img/banner.png)
 
-```text
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@.       @@@@@@@@@                  -@@@@@@%                      @@@@@@@@@@
-@@@@@@@@@@.       @@@@@@@@@                    =@@@@#                      @@@@@@@@@@
-@@@@@@@@@@.       @@@@@@@@@                      +@@#                      @@@@@@@@@@
-@@@@@@@@@@.       @@@@@@@@@                        %#                      @@@@@@@@@@
-@@@@@@@@@@.       @@@@@@@@@        @@@@@@@@@        #                      @@@@@@@@@@
-@@@@@@@@@@.       @@@@@@@@@        @@@@@@@@@        #                      @@@@@@@@@@
-@@@@@@@@@@.       @@@@@@@@@        @@@@@@@@@        #                      @@@@@@@@@@
-@@@@@@@@@@.       @@@@@@@@@        @*++++++        :#                      @@@@@@@@@@
-@@@@@@@@@@.       @@@@@@@@@        @              #@#                      @@@@@@@@@@
-@@@@@@@@@@.       @@@@@@@@@        @             @@@#                      @@@@@@@@@@
-@@@@@@@@@@.       @@@@@@@@@        @              #@#                      @@@@@@@@@@
-@@@@@@@@@@*       :=======:       +@#######=       :#                      @@@@@@@@@@
-@@@@@@@@@@@*                     *@@@@@@@@@@        #                      @@@@@@@@@@
-@@@@@@@@@@@@@*                 *@@@@@@@@@@@@        #                      @@@@@@@@@@
-@@@@@@@@@@@@@@@+             +@@@@@@@@@@@@@@        #                      @@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-```
+# 👋 Hello, I'm Uri.
 
-<a href="https://github.com/urifallon" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/urifallon" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/urifallon" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-  
+### DevOps Engineer & Infrastructure Builder based in Vietnam.
 
+> *I build reliable systems, automate repetitive tasks, and turn complex infrastructure into manageable code.*
 
+---
 
-### About me!  
-I’m a validator in the blockchain space, responsible for ensuring the integrity and security of transactions. My role involves maintaining the reliability of the network by verifying and validating transactions, ensuring that all data remains accurate and trustworthy.  
-  
+### 👨‍💻 About Me
 
-<br/>  
+My journey started in the blockchain space as a Validator and Node Runner, where I learned the importance of **uptime** and **security**. However, I realized my true passion wasn't just maintaining nodes, but architecting the underlying infrastructure that makes them run efficiently.
 
+Today, I have fully transitioned into **DevOps and System Engineering**. I specialize in designing on-premise virtualization clusters, managing distributed databases, and implementing Infrastructure as Code (IaC). I don't just use tools; I focus on **why** a tool is needed and **how** to integrate it seamlessly into a production-grade environment.
 
-## Hobbies  
+---
 
-- 🔭 I’m currently exploring Blockchain Node Validation  
-  
+### 🚀 What I Do
 
-- 🌱 I’m learning about setup Node/Validator, Web3, DevOp  
-  
+Here is how I approach technology and problem-solving:
 
-- ❓ Ask me anything about Blockchain, Node Validators, and related technologies  
-  
+* **Virtualization & Orchestration**
+    I treat hardware as a flexible resource. My expertise lies in configuring **Proxmox VE** and **VMware ESXi** to create highly available virtual environments. I am also deeply involved in containerization strategies using **Docker** and **Kubernetes** to ensure applications are portable and scalable.
 
-- ⚡ Fun fact: I enjoy learning new technologies and tackling challenging problems  
+* **Data Reliability & Storage**
+    Data is the core of any operation. I have hands-on experience deploying **Apache Cassandra** in Multi-Datacenter simulations to understand eventual consistency and replication strategies. Additionally, I manage enterprise-grade storage solutions like **Synology NAS (RAID 6)** to ensure robust backup and disaster recovery plans.
 
+* **Automation & Consistency**
+    If I have to do it twice, I automate it. I use **Ansible** for configuration management and **Terraform** for provisioning. Recently, I've been optimizing VM deployment pipelines using **Cloud-init**, reducing setup time from hours to minutes.
 
-<br/>  
+---
 
+### 🛠 The Toolbox
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<br/>  
+My preferred stack for building and managing infrastructure:
 
-![Profile views counter](https://komarev.com/ghpvc/?username=urifallon&&style=flat-square)  
-  
+| Domain | Technologies |
+| :--- | :--- |
+| **Operating Systems** | Linux (Ubuntu, CentOS), Windows Server (PowerShell expert) |
+| **Virtualization** | Proxmox VE, VMware ESXi, KVM |
+| **Containerization** | Docker, Kubernetes (K8s), LXC |
+| **Databases** | Apache Cassandra (Multi-DC), MariaDB MaxScale, MySQL |
+| **IaC & Config** | Ansible, Terraform, Cloud-init, Bash, YAML |
+| **Networking** | pfSense, Tailscale, Cloudflare Tunnels, Nginx |
+| **Hardware** | Synology RackStation, Enterprise Servers |
 
+---
 
+### ⚡ The "Home Lab" Philosophy
+
+I believe the best way to learn is by breaking things safely. I maintain a sophisticated Home Lab that mimics a Tier-3 Data Center environment.
+
+* **Current Setup:** A hybrid network of Proxmox nodes and Synology storage, segmented by VLANs.
+* **The Goal:** To simulate real-world scenarios—failover, latency handling, and load balancing—before applying them to production systems.
+* **Recent Achievement:** Successfully architected a local cloud environment where VMs are auto-provisioned and instantly connected to a central monitoring stack.
+
+---
+
+### 📚 Current Focus
+
+I am currently compiling a comprehensive **DevOps Knowledge Base**. This is a structured documentation project where I record:
+1.  Complex lab scenarios (e.g., replicating Cassandra across subnets).
+2.  Troubleshooting logs for obscure Linux/Windows errors.
+3.  Best practices for securing internal networks.
+
+---
+
+<div align="left">
+  <a href="https://github.com/urifallon">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/urifallon">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:urifallon.sc.9125268@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
